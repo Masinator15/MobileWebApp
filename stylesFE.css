@@ -1,0 +1,22 @@
+@charset "utf-8";
+/* CSS Document */
+
+h1{
+	text-align:center;
+}
+
+body{
+	background-color: white;
+	float: none;
+}
+
+.navButton{
+	background-color:transparent;
+	width:24%;
+}
+
+.cameraButton{
+	background-color:transparent;
+	width:%;
+}
+
